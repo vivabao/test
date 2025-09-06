@@ -4,6 +4,8 @@ function Home() {
   return (
     <div className="w-[600px]">
       <Header />
+        Hello
+        12345
     </div>
   );
 }
